@@ -1,0 +1,7 @@
+Santiago Figueroa: 
+
+
+- In class FileHandler please change the file path as is specific for mine local machine (place a TODO lines next to them). 
+ - Auction class contains all the data that will come from Items to be sold and their bits.
+ - The Double Arrays' lengths are hard coded might need to change in some of them as some hold limited values, unless each Item would have more than 20 bits.
+ - In terms of the Test I wasn’t able to do much as lack of time and don't have much experience on it. Hope is Ok for the ones I've done. 
